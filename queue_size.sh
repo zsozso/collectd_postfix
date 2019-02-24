@@ -1,5 +1,5 @@
 #!/bin/bash
-HOSTNAME="${COLLECTD_HOSTNAME:-vipmilter}"
+HOSTNAME="${COLLECTD_HOSTNAME:-postfix}"
 INTERVAL="${COLLECTD_INTERVAL:-60}"
 
 
